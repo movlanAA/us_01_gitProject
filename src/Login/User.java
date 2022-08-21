@@ -6,5 +6,7 @@ public class User {
 
         System.out.println("I'm dev working on project");
 
+        System.out.println("User class completed ");
+
     }
 }
